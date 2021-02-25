@@ -8,6 +8,8 @@
 - [脚本](#脚本)
 - [技巧](#技巧)
 - [官方](#官方)
+- [社区](#社区)
+- [贡献](#贡献)
 
 ## 脚本
 
@@ -25,6 +27,11 @@
 - [Hamibot 官网](https://hamibot.com/)
 - [脚本市场](https://hamibot.com/marketplace)
 - [开发文档](https://docs.hamibot.com/)
+
+## 社区
+
+- [交流论坛](https://shadowq.com/n-Hamibot-1.html)
+- [Telegram 群组](https://t.me/HamibotChat)
 
 ## 贡献
 
