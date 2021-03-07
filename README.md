@@ -18,6 +18,7 @@
 - [WeChatCheckingIn](https://github.com/hlsky1988/WeChatCheckingIn) 企业微信打卡
 - [Auto-upinfo](https://github.com/cnsource/Auto-upinfo) 校园集结号自动报平安
 - [yongshi](https://github.com/fnoopv/yongshi) 勇士食堂自动做饭脚本
+- [hdu-healthcheckin](https://github.com/Leo-Mu/hdu-healthcheckin) 杭州电子科技大学每日健康打卡脚本
 
 ## 技巧
 
