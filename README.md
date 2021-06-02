@@ -21,7 +21,8 @@
 - [hdu-healthcheckin](https://github.com/Leo-Mu/hdu-healthcheckin) 杭州电子科技大学每日健康打卡脚本
 - [zust-autocheckin](https://github.com/ShaoaAllen/zust-autocheckin) 每日自动打卡，上报防疫信息
 - [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
-
+- [bilibili](https://github.com/67here/bilibili) 哔哩哔哩自动点赞他/她所有的动态
+- [jingdou](https://github.com/67here/jingdou) 完成京豆任务
 
 ## 技巧
 
