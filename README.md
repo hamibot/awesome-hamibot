@@ -23,6 +23,7 @@
 - [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
 - [bilibili](https://github.com/67here/bilibili) 哔哩哔哩自动点赞他/她所有的动态
 - [jingdou](https://github.com/67here/jingdou) 完成京豆任务
+- [taobaolive](https://github.com/67here/taobaolive) 淘宝直播自动刷视频任务
 
 ## 技巧
 
