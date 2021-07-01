@@ -21,13 +21,13 @@
 - [hdu-healthcheckin](https://github.com/Leo-Mu/hdu-healthcheckin) 杭州电子科技大学每日健康打卡脚本
 - [zust-autocheckin](https://github.com/ShaoaAllen/zust-autocheckin) 每日自动打卡，上报防疫信息
 - [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
-- [bilibili](https://github.com/67here/bilibili) 哔哩哔哩自动点赞他/她所有的动态
 - [jingdou](https://github.com/67here/jingdou) 完成京豆任务
-- [taobaolive](https://github.com/67here/taobaolive) 淘宝直播自动刷视频任务
+- [ele](https://github.com/67here/ele) 饿了么自动完成吃货豆浏览任务和视频任务
 
 ## 技巧
 
 - [Hamibot-Tools](https://github.com/cnsource/Hamibot-Tools) Hamibot 自动化脚本的开发技巧总结，完整的案例和分析
+- [Auto.js-skill](https://github.com/67here/Auto.js-skill) 一些常用功能函数
 
 ## 官方
 
