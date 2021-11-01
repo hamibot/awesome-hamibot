@@ -23,7 +23,9 @@
 - [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
 - [jingdou](https://github.com/67here/jingdou) 完成京豆任务
 - [ele](https://github.com/67here/ele) 饿了么自动完成吃货豆浏览任务和视频任务
-- [autoClock]( https://github.com/CaoAnda/autoClock) 浙理工每日自动打卡
+- [autoClock](https://github.com/CaoAnda/autoClock) 浙理工每日自动打卡
+- [Ray.HamibotScripts](https://github.com/RayWangQvQ/Ray.HamibotScripts) 个人编写和使用的Hamibot脚本
+- [hami_wechat](https://github.com/gaoyunzhi/hami_wechat) 期待
 
 ## 技巧
 
