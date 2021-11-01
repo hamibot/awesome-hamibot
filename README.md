@@ -26,6 +26,7 @@
 - [autoClock](https://github.com/CaoAnda/autoClock) 浙理工每日自动打卡
 - [DingTalkClockIn](https://github.com/yqchilde/DingTalkClockIn) 钉钉全自动打卡脚本
 - [Ray.HamibotScripts](https://github.com/RayWangQvQ/Ray.HamibotScripts) 个人编写和使用的Hamibot脚本
+- [OwnJS](https://github.com/67here/OwnJS) 67 写的一些脚本
 - [hami_wechat](https://github.com/gaoyunzhi/hami_wechat) 期待
 
 ## 技巧
