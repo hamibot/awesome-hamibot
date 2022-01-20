@@ -21,13 +21,12 @@
 - [hdu-healthcheckin](https://github.com/Leo-Mu/hdu-healthcheckin) 杭州电子科技大学每日健康打卡脚本
 - [zust-autocheckin](https://github.com/ShaoaAllen/zust-autocheckin) 每日自动打卡，上报防疫信息
 - [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
-- [jingdou](https://github.com/67here/jingdou) 完成京豆任务
-- [ele](https://github.com/67here/ele) 饿了么自动完成吃货豆浏览任务和视频任务
 - [autoClock](https://github.com/CaoAnda/autoClock) 浙理工每日自动打卡
 - [DingTalkClockIn](https://github.com/yqchilde/DingTalkClockIn) 钉钉全自动打卡脚本
 - [Ray.HamibotScripts](https://github.com/RayWangQvQ/Ray.HamibotScripts) 个人编写和使用的Hamibot脚本
-- [OwnJS](https://github.com/67here/OwnJS) 67 写的一些脚本
-- [hami_wechat](https://github.com/gaoyunzhi/hami_wechat) 期待
+- [OwnJS](https://github.com/67here/OwnJS) 67here 写的一些脚本
+
+### 更多可使用搜索 [搜索 hamibot](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
 
 ## 技巧
 
@@ -37,12 +36,13 @@
 ## 官方
 
 - [Hamibot 官网](https://hamibot.com/)
+- [国内站点](https://hamibot.cn/) 访问速度更快，部分功能有所不同
 - [脚本市场](https://hamibot.com/marketplace)
 - [开发文档](https://docs.hamibot.com/)
 
 ## 社区
 
-- [交流论坛](https://shadowq.com/n-Hamibot-1.html)
+- [博客](https://blog.hamibot.com/)
 - [Telegram 群组](https://t.me/HamibotChat)
 
 ## 贡献
