@@ -1,4 +1,5 @@
 # awesome-hamibot
+
 > Hamibot 精选资源收集
 
 ![Hamibot](https://repository-images.githubusercontent.com/317106172/7d373900-616e-11eb-9170-ba931b11f1cb)
@@ -20,13 +21,17 @@
 - [yongshi](https://github.com/fnoopv/yongshi) 勇士食堂自动做饭脚本
 - [hdu-healthcheckin](https://github.com/Leo-Mu/hdu-healthcheckin) 杭州电子科技大学每日健康打卡脚本
 - [zust-autocheckin](https://github.com/ShaoaAllen/zust-autocheckin) 每日自动打卡，上报防疫信息
-- [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于CCZU的企业微信自动打卡脚本
+- [cczu_healthcheckin](https://github.com/HellSakura/cczu_healthcheckin) 适用于 CCZU 的企业微信自动打卡脚本
 - [autoClock](https://github.com/CaoAnda/autoClock) 浙理工每日自动打卡
 - [DingTalkClockIn](https://github.com/yqchilde/DingTalkClockIn) 钉钉全自动打卡脚本
-- [Ray.HamibotScripts](https://github.com/RayWangQvQ/Ray.HamibotScripts) 个人编写和使用的Hamibot脚本
+- [Ray.HamibotScripts](https://github.com/RayWangQvQ/Ray.HamibotScripts) 个人编写和使用的 Hamibot 脚本
 - [OwnJS](https://github.com/67here/OwnJS) 67here 写的一些脚本
 
 ### 更多可使用搜索 [搜索 hamibot](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
+
+## 其他
+
+- [script-template](https://github.com/batu1579/script-template) 多文件脚本模板
 
 ## 技巧
 
@@ -48,3 +53,4 @@
 ## 贡献
 
 欢迎提交
+
