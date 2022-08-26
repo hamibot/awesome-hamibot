@@ -29,9 +29,10 @@
 
 ### 更多可使用搜索 [搜索 hamibot](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
 
-## 其他
+## 工具
 
-- [script-template](https://github.com/batu1579/script-template) 多文件脚本模板
+- [VSCode 插件](https://github.com/hamibot/vscode-hamibot) 官方 Hamibot VSCode 插件
+- [hamibot-starter](https://github.com/batu1579/hamibot-starter) Hamibot 脚本模板
 
 ## 技巧
 
@@ -53,4 +54,3 @@
 ## 贡献
 
 欢迎提交
-
