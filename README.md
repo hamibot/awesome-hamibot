@@ -7,6 +7,7 @@
 ## 目录
 
 - [脚本](#脚本)
+- [客户端](#客户端)
 - [技巧](#技巧)
 - [官方](#官方)
 - [社区](#社区)
@@ -29,10 +30,15 @@
 
 ### 更多可使用搜索 [搜索 hamibot](https://github.com/search?l=JavaScript&q=hamibot&type=Repositories)
 
+## 客户端
+
+- [Hamibot 遥控器](https://github.com/laosanyuan/HamibotRemoteControl) 手机端控制器，基于 API 接口
+
 ## 工具
 
 - [VSCode 插件](https://github.com/hamibot/vscode-hamibot) 官方 Hamibot VSCode 插件
 - [hamibot-starter](https://github.com/batu1579/hamibot-starter) Hamibot 脚本模板
+- [Hamibot 开发助手](https://github.com/batu1579/hamibot-assistant) 辅助开发 hamibot 脚本的 VSCode 插件
 
 ## 技巧
 
@@ -48,8 +54,8 @@
 
 ## 社区
 
-- [博客](https://blog.hamibot.com/)
-- [Telegram 群组](https://t.me/HamibotChat)
+- [博客](https://hamibot.cn/articles)
+- [问大家](https://hamibot.cn/questions)
 
 ## 贡献
 
